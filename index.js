@@ -15,4 +15,8 @@ function increaseRankBy(n){
   return rankedList;
 }
 
-function 
+function deepestChild(){
+  var current = document.querySelector("div #grand-node");
+  while(current)
+  return current;
+}
