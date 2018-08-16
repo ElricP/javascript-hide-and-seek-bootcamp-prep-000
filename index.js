@@ -6,3 +6,4 @@ function getFirstSelector(selector){
 function nesetedTarget(){
   return document.querySelector("#nested").target
 }
+
